@@ -20,7 +20,7 @@ setTimeout(() => {
   const scroll = new LocomotiveScroll({
     el: document.querySelector(".main"),
     smooth: true,
-    lerp: 0.9,
+    // lerp: 0.9,
   });
 }, 2700);
 
